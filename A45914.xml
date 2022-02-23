@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Enquiry, or, A discourse between a yeoman of Kent and a knight of a shire upon the prorogation of the Parliament to the second of May 1693</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45914</idno>
+            <idno type="STC">Wing I220</idno>
+            <idno type="STC">ESTC R11876</idno>
+            <idno type="EEBO-CITATION">13302122</idno>
+            <idno type="OCLC">ocm 13302122</idno>
+            <idno type="VID">98943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 458:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Enquiry, or, A discourse between a yeoman of Kent and a knight of a shire upon the prorogation of the Parliament to the second of May 1693</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:98943:1"/>
+            <pb n="1" facs="tcp:98943:1" rendition="simple:additions"/>
+            <head>An <hi>ENQUIRY;</hi> or, a Diſcourſe between a <hi>Yeoman</hi> of <hi>Kent,</hi> and a <hi>Knight</hi> of a Shire, upon the Prorogation of the Parliament to the ſecond of <hi>May, 1693.</hi>
+            </head>
+            <sp>
+               <speaker>Yeoman.</speaker>
+               <p>SIR, your humble Servant, I am happy to meet you at this Friend's Houſe, where I did not expect you—Pray, Sir, is the News true, that the King hath prorogued the Parliament to day?</p>
+            </sp>
+            <sp>
+               <speaker>Knight.</speaker>
+               <p>'Tis very true, we are prorogued to the ſecond of <hi>May</hi> next.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Were all your Bills paſſed that were agreed on by both Houſes?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>I wiſh I could tell you they were.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>I hope, Sir, the King hath not re<g ref="char:EOLhyphen"/>fuſed any Publick Bills.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>Which are thoſe you call Publick?</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Truly, Sir, thoſe two wherein the Country reckoned themſelves moſt concern'd are, <hi>That for ſecuring the Foundations of the Civil Government, by ſuch a conſtant Succeſſion of new choſen Parliaments, that their Deputies by their long continuance in that Truſt, may not be in danger to be corrupted, by Offices, or private Intereſts;</hi> and, <hi>That for preſerving our Property in our Lands and Mines, againſt the Pretences of a Royal Preroga<g ref="char:EOLhyphen"/>tive, to take away our Mines and Oar, tho wt have ſpent moſt of our Eſtates to diſcover the Mines in our Lands.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>I am ſorry to tell you, that thoſe are the two only Bills to which his Majeſty would not aſſent.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Are thoſe Bills then to be utterly loſt, after that both Houſes have ſpent ſo much Time and Care to compoſe them? May they not be offered to the King again as ſoon as the Parliament meets?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>You ſeem not to know the Force of a Prorogation of Parliament, which (as our Lawyers have of late reſolved) makes void all Bills of that Seſſion, not enacted, and all other Matters depending, as if they had never been: Theſe are no more to be accounted Bills of Parliament; but if any thing contained in either of them be deſired to be hereafter enacted, it muſt begin anew, as if it had never been before either Houſe of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, if all the Care and Pains of our Deputies in Parliament may be thus neglected, or blown away with one Breath, what Hopes have we then from the Conſultations of Par<g ref="char:EOLhyphen"/>liament, of the promiſed and long-expected Settlement of Liberty and Property?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>I know no Remedy, until the King ſhall pleaſe to cauſe a new Seſſion of Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>And is ſuch a Seſſion to be abſolutely at the King's Will, whether it ſhall be ſix Months hence, or a Year, or ſeven Years?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>You know it was ſo deſigned, and in part practiſed in the late Reigns; and the Judges then were ſo corrupted, that they declared (notwithſtanding the Laws for Annual Parliaments)<note place="margin">
+                     <hi>Vid.</hi> The minutes of the Judges Opi<g ref="char:EOLhyphen"/>nions in the King's-Bench, upon the Arguments about bailing the Earl of <hi>Danby</hi> out of the Tower.</note> 
+                  <hi>That the holding of Parliaments depended en<g ref="char:EOLhyphen"/>tirely upon the King's Plea<g ref="char:EOLhyphen"/>ſure.</hi>
+               </p>
+               <p>But 'tis moſt mani<g ref="char:EOLhyphen"/>feſt, beſides the poſitive Laws for Yearly Parlia<g ref="char:EOLhyphen"/>ments, that<note n="†" place="margin">Inter Laeges Ed<g ref="char:EOLhyphen"/>gari, <hi>cap. 5.</hi>
+                  </note> by the ancient Conſtitution of our Government, they did meet of courſe at leaſt twice every Year.</p>
+               <p>Afterwards in the Reigns of the Saxon Kings, it was made a perpetual Law, that a Parliament ſhould be holden every Year once at <hi>London,</hi> and the ſame Law was incorporated into the Laws of <hi>Edward</hi> the Confeſſor; and from thence all the ſucceſſive Kings of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to this day, have been ſworn to the Ob<g ref="char:EOLhyphen"/>ſervance of it.</p>
+               <p>I muſt confeſs to you nothing prevailed
+<pb n="2" facs="tcp:98943:2"/>with me more to concur with our King in his Pretentions to reſtore our Parliaments, and the Laws to their due Authority, than my own Knowledg, that the late Civil Wars in this Kingdom, and the Subverſion of our Religion, Laws and Liberties, were principally occa<g ref="char:EOLhyphen"/>ſioned by the Powers uſurped in ſeveral late Reigns, to refuſe the calling of ſucceſſive Par<g ref="char:EOLhyphen"/>liaments, and to continue the ſame Parlia<g ref="char:EOLhyphen"/>ment for many Years, to form them into a Compliance with their Deſigns of Deſpotick Power.</p>
+               <p>When I read the ſolemn and repeated Aſſu<g ref="char:EOLhyphen"/>rances his Majeſty gave us, <hi>That his Deſign in coming into</hi> England, <hi>was to remove from the Ad<g ref="char:EOLhyphen"/>miniſtration of the Government thoſe evil Miniſters that had promoted the Murders and Treaſons com<g ref="char:EOLhyphen"/>mitted, in attempting to ſet up an Arbitrary Power over the People and their Parliaments:</hi> And alſo heard him deſire the Parliament <hi>to make ſuch an effectual Proviſion for their Fundamental Laws and Liberties, that they might never hereafter be in danger to be again invaded;</hi> I thought the Anci<g ref="char:EOLhyphen"/>ent, Legal Courſe of annually choſen Parlia<g ref="char:EOLhyphen"/>ments would have been immediately reſtored, and the ſtrongeſt Fence made for that Conſti<g ref="char:EOLhyphen"/>tution, that the Wiſdom of the Kingdom could have invented: but I muſt tell you, to my Sor<g ref="char:EOLhyphen"/>row, that we are left as much to the King's Will for a Seſſion of Parliament, as evil Mini<g ref="char:EOLhyphen"/>ſters in the late Reigns deſign'd we ſhould be.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>If this be our caſe, it is no wonder that Mens Minds are ſo unquiet; we are in daily imminent hazard of Confuſion, whilſt the Go<g ref="char:EOLhyphen"/>vernment remains wholly unſettled in its Fun<g ref="char:EOLhyphen"/>damentals. It ſeems to be apparent, that after the Expence of twenty Millions, beſides the vaſt Effuſion of Blood, we are no more ſecu<g ref="char:EOLhyphen"/>red againſt the Slavery we fear'd by ſubver<g ref="char:EOLhyphen"/>ting our Conſtitution, than we were before the Convention of the People for a Settlement, when King <hi>James</hi> had juſt abdicated the King<g ref="char:EOLhyphen"/>dom.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>You take it rightly. If no Bill ſhould paſs to ſecure the certain Legal Succeſſion of Parliaments, and we ſhould connive at the U<g ref="char:EOLhyphen"/>ſurpations made by the late Kings therein, and ſeemingly approve the Turkiſh Doctrine of the then Judges, <hi>That the holding and continuance of Parliaments depended abſolutely upon the Wills of our Kings;</hi> then the Supream Power, veſted by the Conſtitution in Parliaments, to maintain the Laws and Statutes, and preſerve Juſtice and good Government, muſt be acknowledged not to be the Kingdom's Right, but to ariſe from the Gracious Will and Pleaſure of their Kings; and the People muſt not dare to claim Liberty and Property as their due.</p>
+               <p>If this Point of our Conſtitution ſhould re<g ref="char:EOLhyphen"/>main thus unſettled, and an ill King ſucceed his preſent Majeſty, then the free Counſels of the whole Kingdom for its Defence and Welfare appointed by our Laws to be in Parliament, may (by the pretence of his Prerogative) be utterly rejected and deſpiſed; and his Flatte<g ref="char:EOLhyphen"/>rers, and Deſigners to make him abſolute Maſter of our Laws, Liberties and Lives, may be exempted by him from the danger of Pu<g ref="char:EOLhyphen"/>niſhment, certain Juſtice being to be done up<g ref="char:EOLhyphen"/>on ſuch Offenders, only upon the Peoples Complaints, and Impeachment of them in Parliament.</p>
+               <p>If the due Succeſſion of Parliaments be not eſtabliſhed, ſo as the Kings cannot by any Arti<g ref="char:EOLhyphen"/>fices avoid their meeting, an ill King may, in effect, authorize whom he pleaſes to ſubvert and deſtroy our Religion, Laws and Liberties, by renewing Pardons of all ſuch Crimes as often as they can commit them. I am ſorry to ſay it, but our preſent caſe is ſuch, that all the Security we have for our Religion, our Laws, our Liberties, our Lives, depends wholly upon the uncertain and hazardous Life of our preſent King, to make good his Declarations and Promiſes to the Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, you make me afraid that our Country muſt run a deſperate hazard, to have their Government and all their higheſt Con<g ref="char:EOLhyphen"/>cerns remain ſtill unſettled for at leaſt another half Year. The King I hear is going for <hi>Flan<g ref="char:EOLhyphen"/>ders,</hi> not to return till towards Winter; and who can be ſecure of his Life, or the Events of War? and what dreadful Conſequences may enſue in an unſettled Kingdom? Pray, Sir, can you tell me the Reaſons why his Majeſty hath deſerr'd to make this Settlement of Parlia<g ref="char:EOLhyphen"/>ments? What ſhall I ſay to my Neighbours in this Point?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>Do you expect, my good Neighbour, that I ſhould ſhew you good Reaſon for the King's rejecting of the Bill? If I had known any ſuch Reaſons, or either Houſe of Parliament; we ought not, as his great Council, to have adviſed him to paſs it. We concluded, upon
+<pb n="3" facs="tcp:98943:2"/>ſolemn Debates, that he was highly concerned to have this Bill enacted, to juſtify the Deſign of his coming with Force and Arms to deliver us from Arbitrary Power, and to ſettle our Laws and Liberties. We thought that the Reputation of his Concurrence with the Ad<g ref="char:EOLhyphen"/>vice of the great Council of his Kingdom, ob<g ref="char:EOLhyphen"/>liged him to a free Conſent to that Bill, the Expectations of all <hi>Europe</hi> being ſo exceeding great from the Reſults of this Parliament's Counſels, and his Union with them. We be<g ref="char:EOLhyphen"/>lieved his Deſire to ſecure to his Subjects their Government by Laws, would have made him glad of the opportunity of this Bill, leſt any Accident ſhould befal him in this War, and he ſhould loſe the Glory of his Deſign, by leaving them unſettled. We thought it was for his Intereſt to paſs this Bill, to induce the People to pay their great Taxes freely, and to ad<g ref="char:EOLhyphen"/>vance them to as great Sums as the Acts of Parliament would allow: It being the antient Courſe in Parliaments, that the Kings always paſſed ſome Bills for the Peoples Advantage, when they had great Sums of Money from them. And we thought his Majeſty had the leſs Reaſon to deny his Aſſent to this Bill, in regard it deprived the Crown of no Legal Prerogative, but only revived and confirmed the antient Laws of the Realm, than which nothing is more frequent, when wholſome and neceſſary Laws grow into diſuſe. We alſo conceived that his Majeſty was bound in Ho<g ref="char:EOLhyphen"/>nour to make good the Matter of his Declara<g ref="char:EOLhyphen"/>tions, and his ſolemn Promiſes to the People in them, to ſettle their Legal Government beyond all dangers of being ſubverted by ill Princes or evil Miniſters. It ſeemed to us that his Majeſty's Deſire of being as great and po<g ref="char:EOLhyphen"/>tent as any King that ever poſſeſſed the Engliſh Crown, would have preſſed him to a Con<g ref="char:EOLhyphen"/>junction with the Parliament in this Bill, ſince Engliſh Kings can be great only by the wiſe and affectionate Counſels and Aſſiſtance of their Parliaments, who have the abſolute Com<g ref="char:EOLhyphen"/>mand of the Wealth of the whole Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, you have been extreamly kind in ſhewing me your Opinion of the Importance and Neceſſity of this Bill: but you have not informed me of any one Objection made a<g ref="char:EOLhyphen"/>gainſt the King's paſſing it. I would gladly know what was alledged againſt the Settle<g ref="char:EOLhyphen"/>ment of this Fundamental of our Government.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>It would be uſeleſs to tell you the ſal<g ref="char:EOLhyphen"/>lacious Arguments that were brought, to ſhew there was no Neceſſity of paſſing ſuch a Bill in this King's Reign; but all that was ſaid was in ſubſtance no more than, That the Bill took away an undoubted Prerogative of the King's, to call, continue, and diſſolve Parliaments at his Pleaſure; that the Power of the Regal Office would be leſſened thereby; and, that it was not fit to ſhew Jealouſy of this King's denying our Legal Rights, whilſt he ſo continually hazards his Perſon for our ſakes.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Pray, Sir, let me be ſo hold as to ask you how theſe Objections againſt the Bill were anſwered: I know 'tis not hard to delude the unlearned Country-men in Matters of this nature; yet they are not ignorant that it hath been the common Practice of thoſe that have deſigned our Slavery, to cry up the King's Prerogative, to ſuppreſs the Subjects Claims of their Rights and Liberties. Be pleaſed to favour me with a ſhort account of what was ſaid upon this occaſion.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>As to the firſt Pretence, That the Bill deſtroyed the Prerogative of the Crown, to call, prorogue and diſſolve Parliaments at their Will and Pleaſure only, it was plainly ſaid, <hi>That there neither is, nor ever was, any ſuch Prerogative, and that there needs no other Evidence of that Truth, than the very Nature and Eſſence of our Conſtitution.</hi> 'Tis a Repugnancy in it ſelf, and downright Contradiction, to ſay, that by our Conſtitution, the Subjects are to be go<g ref="char:EOLhyphen"/>verned only by Laws of their own chooſing, and that their Deputies to that purpoſe are to be appointed from time to time by the Subjects, as the Laws ſhall direct, as they re<g ref="char:EOLhyphen"/>ſpectively ſhall attain to Age, and as the E<g ref="char:EOLhyphen"/>ſtates deſcend, alter and change, (all which is known by our common Laws, and fully declared in ſeveral<note n="*" place="margin">
+                     <hi>Vid.</hi> 25. <hi>H.</hi> 8. 1<hi rend="sup">o</hi> 
+                     <hi>J.</hi> 1.</note> Sta<g ref="char:EOLhyphen"/>tutes, and acknowledged by all that know our Laws) and then to ſay that our Kings have a rightful Power and Prerogative, either to keep them from meeting, to adviſe about, and chooſe their Laws, or to prevent the ſucceſſive Ge<g ref="char:EOLhyphen"/>nerations to chooſe their Deputies for that purpoſe, by continuing ſuch as are once cho<g ref="char:EOLhyphen"/>ſen ſo long as he or they live.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, I thank you for opening of this Point. I ſee it manifeſtly inconſiſtent, that the
+<pb n="4" facs="tcp:98943:3"/>Subjects ſhould have a Right to be governed only by the Laws of their own chooſing in their ſucceſſive Parliaments, and that it ſhould be at the Pleaſure of their Kings, whether Parliaments ſhould ever be holden, or ſuc<g ref="char:EOLhyphen"/>ceſſively choſen.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>I muſt tell you, that it was further ſaid, that ſuch a Pretence of Prerogative appear'd more vain by the continual Practice of all Ages, concurring with our Conſtitution. The Duty of the Regal Office was ſo notoriouſly known, that whenever our Kings neglected to hold Parliaments to maintain the Govern<g ref="char:EOLhyphen"/>ment, or diſſolved them before due Provi<g ref="char:EOLhyphen"/>ſions made for the Kingdom, it was ſo far from being eſteemed an Exerciſe of their rightful Power, or Prerogative, that it was always adjudged Miſgovernment in them: and it appears by our Hiſtories, that fatal Conſequences have thereupon enſued.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, our Country is bound to pray for all thoſe Gentlemen that have thus main<g ref="char:EOLhyphen"/>tained this firſt Foundation of all our Rights and Liberties, and made it thus plain, that it does not intrench upon the Rights of the King. Yet I muſt tell you, Sir, there are a ſort of People make great Noiſe of the Right of the Kings, by their Prerogative, to call and diſ<g ref="char:EOLhyphen"/>ſolve Parliaments, and that all Kings have con<g ref="char:EOLhyphen"/>ſtantly done it. Pray, Sir, help us to underſtand what is the Royal Prerogative in this caſe.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>You ought to know that it is the King's undoubted Prerogative to iſſue out all legal Writs in the Adminiſtration of the whole Go<g ref="char:EOLhyphen"/>vernment: and Writs for calling Parliaments being eſtabliſhed by Law, all Kings, by their Prerogative, called the Parliaments; tho it was not in their Power to change a Word or Syllable in the form of thoſe Writs, yet the times of ſending out ſuch Writs, and of their Returns, within the Limits of the Law, and the Place of the Parliament's meeting, were at the King's Diſcretion; from whence it might be ſaid to be their Prerogative alone to call them.</p>
+               <p>I muſt further tell you that it ought to be remembred, that by our Engliſh Conſtitution, Parliaments are, and always were to be holden within the compaſs of certain times, being the Foundation and Eſſence of the Government; and that it is not in the Power of the Royal Prerogative to refuſe the calling theſe Parlia<g ref="char:EOLhyphen"/>ments ſucceſſively as the Conſtitution intends. The being or not being of ſuch Parliaments is not truſted to the Crown; but the Direction only of ſome Circumſtances about holding them, is left to the Royal Prerogative. But there is alſo a general Truſt placed in the Crown, by our Conſtitution, to call Parlia<g ref="char:EOLhyphen"/>ments upon Occaſions and Emergencies, when the Safety and Welfare of the Kingdom re<g ref="char:EOLhyphen"/>quire it; and for that reaſon, when a poſitive Statute enacted, that a Parliament ſhould be holden once every Year, at leaſt, theſe words were therein added, <hi>And oftner if need be.</hi>
+               </p>
+               <p>Now the calling and diſſolving ſuch occa<g ref="char:EOLhyphen"/>ſional Parliaments is truſted wholly by our Laws to the Royal Prerogative, the Kings are the only Judges of the neceſſity of holding ſuch Parliaments, ſubject always to the Oath of the Crown, to preſerve the Laws and Liber<g ref="char:EOLhyphen"/>ties of the Kingdom.</p>
+               <p>The Prerogative of the Kings is ſo abſolute about the calling ſuch occaſional Parliaments, that it were highly injurious both to the King and Kingdom to attempt to take it away, or diminiſh it by any Act of Parliament: 'tis as neceſſary to the common Good and Safety, to maintain this Prerogative of the Crown about Occaſional Parliaments, entire, as it is to pre<g ref="char:EOLhyphen"/>vent the extending the like Prerogative to Parliaments in general; and a certain preven<g ref="char:EOLhyphen"/>tion of that Miſchief was the only Aim, and honeſt Intention of the Promoters of the late Bill.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, you ſo well diſtinguiſh the Powers and Prerogatives of the Crown, that I cannot imagine what could be ſaid to ſhew that this Bill encroached upon any of them. I have found, by Experience, that thoſe who clamoured moſt againſt it, for taking away the King's Prerogative, could ſay very little when they were preſſed to ſpeak particularly. I my ſelf, after my Country-manner, asked one of them the other day, whom I heard clamour<g ref="char:EOLhyphen"/>ing, What Royal Prerogative the Bill took away? Tell me, ſaid I, what Act of Royal Power, poſſible to do any good to the Crown or Kingdom, was propoſed by the Bill to be reſtrained? Is it a Royal Prerogative, to have the very Being of Parliaments, the Uſe of their Authorities, and the Conſtitution it ſelf, abſolutely at the King's Will, againſt which alone the Bill provides? That the People
+<pb n="5" facs="tcp:98943:3"/>ſhould never conſult, or provide for the Safe<g ref="char:EOLhyphen"/>ty of their Eſtates. Liberties and Lives, unleſs their Kings pleaſe? Hereupon the Gentleman grew angry, and ſaid I talk'd like a baſe Com<g ref="char:EOLhyphen"/>monwealths-man. Truly, Sir, it appears to me, that ſome amongſt us hate our Laws and Liberties; but not daring to ſay ſo, they cover their Malice with Pretences of advancing the Power of the Crown. Theſe Men are better at railing than reaſoning, and talk only in Ge<g ref="char:EOLhyphen"/>nerals, as if they were the only Friends to King <hi>William,</hi> tho they have another Perſon in their Hearts and Intentions, when they ſeem ſo careful for the Power of the Crown, and cry out, that this Bill leſſens the Power and Digni<g ref="char:EOLhyphen"/>ty of the Regal Office. Pray, Sir, what was ſaid to ſhew the Falſhood of that Suggeſtion?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>This Suggeſtion againſt the Bill appea<g ref="char:EOLhyphen"/>red to be ſo far from Truth, that thoſe who objected it, could neither give an Inſtance of any Power belonging to the Regal Office which the Bill reſtrained, nor of any one Act propo<g ref="char:EOLhyphen"/>ſed by it to be done by the Kings, unto which they are not obliged by Law, and the Duty of their Office without any ſuch bill. 'Tis a wonder that any ſecret Enemies of our Laws and Liberties, ſhould have the Confidence to inſinuate, that the Regal Office would be leſ<g ref="char:EOLhyphen"/>ſened, by a conſtant ſucceſſive electing and holding of Parliaments in a legal Courſe, not to be interrupted by evil Miniſters, or ill Princes; the contrary being indeed manifeſt, that the Honour, Greatneſs and Glory of the Crown can never be in any other manner ſup<g ref="char:EOLhyphen"/>ported, much leſs advanced and augmented. It cannot but be clear to every Man, that by ſuch a certain Succeſſion of Parliaments, the Greateſt and Wiſeſt of the Kingdom ſhould conſtantly hold their Conſultations to advance the King's and his Kingdom's Intereſt, Honour and Greatneſs, and be enabled to diſcover all Unfaithfulneſs, Failures and Defects in the Adminiſtration of the Government, which may any way derogate from the Security, Po<g ref="char:EOLhyphen"/>tency, and Honour of the King.</p>
+               <p>In like manner all the Forces of the King<g ref="char:EOLhyphen"/>dom, which are ſome hundreds of thouſands, may be applied to the King's Service, and eve<g ref="char:EOLhyphen"/>ry Man of them employed, as ſhall moſt con<g ref="char:EOLhyphen"/>duce to the Kingdom's Safety and Honour: And, to compleat the Prince's Glory, all the Treaſure and Wealth, which theſe Iſlands have gathered in many Ages, from both the <hi>Indies,</hi> and all the Peoples Lands, Goods and Intereſts, would be ſubject to be charged; as the Wiſ<g ref="char:EOLhyphen"/>dom of ſuch great Councils ſhould think fit. for the Maintenance and Proſecution of any Juſt and Glorious Deſign.</p>
+               <p>But 'tis notorious that none of theſe high Powers and Authorities can be exerciſed by the Engliſh Kings, in any other manner, than by ſuch a conſtant Succeſſion of Parliaments as the Laws intend; and therefore 'tis evident, that this Bill propoſed the higheſt Advance<g ref="char:EOLhyphen"/>ment of the Regal Office, by making Proviſion for the certain holding of ſuch ſucceſſive Par<g ref="char:EOLhyphen"/>liaments, within the times limited by Law.</p>
+               <p>Pray, Country-man, let me adviſe you to read your Chronicles at home of our Kings, and you ſhall find, that all thoſe Princes were moſt Great and Glorious, who governed by the Counſels of legal ſucceſſive Parliaments; and that thoſe who declined it, loſt the Ho<g ref="char:EOLhyphen"/>nour and Power of the Nation, and rendred themſelves and their People unhappy.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Theſe things being ſo clear, pray, Sir, let me be ſo bold as to ask you, what hath made ſo many Favourites of our Princes diſ<g ref="char:EOLhyphen"/>ſwade them from obſerving the Laws for conſtant ſucceſſive Parliaments, and how came our Princes ſo readily to follow thoſe Counſels?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>I could eaſily tell you, if it were fit to ſpeak plain; but in ſhort, the Favourites Power with their Princes is reſtrained and leſſened by a due courſe of Parliaments, their Corruptions would be liable to be examined, and their high ambitious Deſigns defeated. And for the Princes, they are deceived by their Flatterers, with a falſe Notion of Power: they are made believe, that their Power is leſſened, when they are bound by Laws to do themſelves and their People good, tho they were bound to it before by the Laws of God in Nature, and the Laws of the Realm, by which they hold their Royal Offices, and which, at their ſeveral Coronations, they ſolemnly ſwear to obſerve.</p>
+               <p>'Tis hard to perſwade ſome of them, that it is the Glory and Perfection of the Royal Office, to be diſabled by Laws to hurt their People: but if they be truly God's Vicegerents, they ought to remember in their moſt tow'ring ambitious Thoughts, that it is the higheſt Per<g ref="char:EOLhyphen"/>fection of God Almighty, that he is uncapable of doing ill.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, you have ſaid enough to ſatisfy me, that this Bill was not only juſt in it ſelf,
+<pb n="6" facs="tcp:98943:4"/>but highly neceſſary for the Settlement of the Government, and the Security and Welfare of the Kingdom: but it ſeems ſuch as had a mind to avoid it, urged it to be unſeaſonable at this Time; they pretended their Fears, that it might weaken the Reputation of the Union between the King and his Parliament, and occaſion Rumours, that the Parliament is jealous of our King's Compliance with them in ſecuring our Liberties. When they could not reſiſt the Reaſons for the Bill, they offered at the old Trick in ſuch Caſes, to delay the paſſing it till a better Seaſon. Do you think, Sir, there was any thing of Weight in theſe Pretences, or were they mere Shams?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>If I might without Breach of Privi<g ref="char:EOLhyphen"/>lege tell you the Diſcourſe in our Houſe of Commons upon this Occaſion, you would con<g ref="char:EOLhyphen"/>clude that thoſe who objected the Unſeaſona<g ref="char:EOLhyphen"/>bleneſs of the Bill, did not believe themſelves; whatever they ſaid to delay the Bill, for fear of a Diſguſt between the King and Parliament: That being in truth (after ſo many in both Houſes had appeared for it) a Reaſon for pre<g ref="char:EOLhyphen"/>ſent paſſing it, that the whole World might have been out of doubt of their perfect Union.</p>
+               <p>But I may freely tell you ſome of the pri<g ref="char:EOLhyphen"/>vate Diſcourſes amongſt the Members; and in thoſe ſome of us were bold to ask, whence came the Rumours that the Bill would diſ<g ref="char:EOLhyphen"/>pleaſe the King? and whether any Body had Authority to inſinuate to the Members, that the King would have the Bill delayed, as un<g ref="char:EOLhyphen"/>ſeaſonable? But I could hear of none that would own more than their Doubts and Con<g ref="char:EOLhyphen"/>jectures, which made me ſuſpect that there were ſome ſecret Deſigns to diſſwade the King from agreeing to the Bill, on purpoſe to weaken abroad the Reputation of the King and Parliament's perfect Agreement.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>What you have obſerved makes it appear, that the ſecret Enemies of the Go<g ref="char:EOLhyphen"/>vernment are ſtill deſigning Miſchief to di<g ref="char:EOLhyphen"/>ſturb the Agreement between the King and his People: but might not this Bill give Oc<g ref="char:EOLhyphen"/>caſion to the King to think, that the Parlia<g ref="char:EOLhyphen"/>ment had ſome Jealouſly of him, that he would not govern by a due Courſe of ſuc<g ref="char:EOLhyphen"/>ceſſive Parliaments, according to the Nature and Intent of our Conſtitution?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>Sir, I can readily anſwer you, that if the Time and Manner of offering the bill be only conſidered, with other Circumſtances, there could be no Reaſon for the King to har<g ref="char:EOLhyphen"/>bour ſuch a Thought. Is there any Reaſon for a Prince to think his People jealous of him, becauſe they provide good Laws for the ſecuring their Rights and Liberties? Every good Prince ought to be pleaſed to ſee his People careful therein, not only that he might not have it in his Power to wrong them, but that it might not be in any other Prince's Power who may ſucceed him. Every Prince ſhould be ambitious to have Laws of that kind made in his Time, to be laſting Mo<g ref="char:EOLhyphen"/>numents of his Glory, as having given ſuch Securities of Peace and Reſt to his People. It ought to be remembred that our King had invited his People to invent and provide Laws ſo to ſecure their Parliaments, which is their Conſtitution, and all their Rights and Liber<g ref="char:EOLhyphen"/>ties, that they might never be in Danger to be again invaded; therefore he could not think their Obedience to his own Commands ſhould ariſe from a Jealouſy or Diſtruſt of him. It muſt alſo be conſidered that our King hath had large Experience of the Confi<g ref="char:EOLhyphen"/>dence of his People in him: they have, by ſeveral Acts, more abſolutely truſted their Perſons, Liberties and Eſtates in his Power, than was ever done to any former Princes, by our Anceſtors, in any Age.</p>
+               <p>It ought to be eſteemed the greateſt of all Truſts, that they have patiently born, for a<g ref="char:EOLhyphen"/>bove four Years, the dangerous Unſettlement of their Government in a legal Courſe of ſuc<g ref="char:EOLhyphen"/>ceſſive Parliaments: And had his Majeſty unhappily fall'n in the Wars, or otherwiſe, we had been left to the Will of ſucceeding Princes, to conteſt that our Fundamental Li<g ref="char:EOLhyphen"/>berty; though it is manifeſt that all the late Miſeries, Confuſions and Blood that have been in <hi>England,</hi> were occaſioned by the want of that Settlement. Now when the Parliament hath thus highly truſted his Ma<g ref="char:EOLhyphen"/>jeſty, can he take it amiſs that they are un<g ref="char:EOLhyphen"/>willing to run the Hazard any longer, of the like Truſts devolving upon Succeſſors, that cannot be known who they are, or what they will be?</p>
+               <p>That which was mentioned of his hazard<g ref="char:EOLhyphen"/>ing his Life in the War for our ſakes, is ſo far from ſhewing this Bill to be unſeaſonable, that it is the ſtrongeſt Argument poſſible to have it finiſhed forthwith, while he enjoys the Crown, who hath perſonally renewed
+<pb n="7" facs="tcp:98943:4"/>the Original Contract with the People, and is under greater Obligations to ſettle and ſe<g ref="char:EOLhyphen"/>cure the Government, than can be expected to meet in any other Prince.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, I can never thank you enough for the Information you have given me in this Matter, that ſo nearly concerns our whole Country; yet after all, I know not what to ſay to my Neighbours when I come home, if they ſhall ask me, as I muſt expect they will, why the King did not paſs this Bill? Many of them are as ignorant as I was, and I could have ſtopped their Mouths, by ſaying, that the Bill took away part of his Prerogative; but now I am otherwiſe convinced, I cannot ſpeak againſt my Conſcience, nor cozen my Neighbours, though I ſhould be very loth to drop a Word that might leſſen the Coun<g ref="char:EOLhyphen"/>tries Eſteem for his Majeſty. Let me beg your Advice what to ſay to them.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>My good Neighbour, I want Advice as much as you, how to ſatisfy thoſe that ſent me to Parliament, about the King's Refuſal of the Bill; yet one thing vexes me worſe, that having been zealous for the Revolution, I know not how to reſtrain, nor yet well to bear the Scoffs of ſome of our Enemies at my Folly. They call to mind that I (ſimple Man as I was) confidently ſaid, that the Govern<g ref="char:EOLhyphen"/>ment ſhould be reformed, and our Laws and Liberties fully ſecured. They now ask me, whether I find by Experience a King of our own making more ready to do the People Right, than the old ones that claimed by Li<g ref="char:EOLhyphen"/>neal Deſcent? Some of them laughed, and told me, that I gaped for a <hi>new Jeruſalem</hi> to drop from Heaven, wherein there would be nothing but Righteouſneſs; and that the Go<g ref="char:EOLhyphen"/>vernment ſhould be adminiſtred by none but Men of Vertue and known Fidelity to their Country. They have upbraided me with what I ſaid, that God had ſent us a Prince that would deny his People nothing, but preſſed and conjured them to provide moſt effectual Ways and Means for ſecuring their Religion, Laws and Liberties.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, I ſuppoſe the Gentlemen that talk to you in this manner, have a Mind to diſgrace the honeſt Principles that led the People juſtly to reject King <hi>James,</hi> and make you believe that they were cozened in think<g ref="char:EOLhyphen"/>ing that the Security of Religion, Laws and Liberties, or the Reformation of the Govern<g ref="char:EOLhyphen"/>ment were ever intended in the Revolution. They would have you believe that there was nothing but Ambition and Avarice in the bot<g ref="char:EOLhyphen"/>tom of the Deſign, and that whatever was pretended, the Crown and its Powers were the only things in the Eyes of King <hi>William</hi> and his Followers. They would perſwade you and the People, to think, that our Religion and Liberties might be ſecured by a Treaty for bringing back King <hi>James,</hi> and that an End may be put to the War thereby, and the People acquitted from the heavy Taxes and Burdens they now lie under. They would impoſe upon you to believe, if poſſible, that he, who ſo baſely caſt the People of <hi>England</hi> at the Feet of the Pope, by an Engliſh Am<g ref="char:EOLhyphen"/>baſſador, and ran the utmoſt Hazards to ſub<g ref="char:EOLhyphen"/>vert the Proteſtant Religion eſtabliſh'd, ſhould deſire to ſecure our Religion, without pre<g ref="char:EOLhyphen"/>tending to be converted, and be fit to be truſted to defend our Faith; and that he, who is known to the whole World to have occaſioned ſo vaſt an Effuſion of Chriſtian Blood, to enſlave us to his Arbitrary Power, and make himſelf our abſolute Maſter, ſhould be fit to receive Royal Powers and Authori<g ref="char:EOLhyphen"/>ties for the Defence of the Engliſh Laws and Liberties.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>Neighbour you are in the right; but this ſort of Gentlemen dare not, upon theſe Occaſions, argue plainly for King <hi>James;</hi> and I hope that neither the Parliament nor the Country are in much Danger by them.</p>
+               <p>But there are another ſort of Men who en<g ref="char:EOLhyphen"/>joy the Powers and the Profits of the late Re<g ref="char:EOLhyphen"/>volution, and highly pretend to maintain it, that upon the Occaſion of this Bill, do ſo per<g ref="char:EOLhyphen"/>vert the Meaning and Conſtruction of our Laws, and aſſert ſuch dangerous Notions, as really tend to introduce Arbitrary Power and Slavery, if they do not unhappily throw the People upon King <hi>James.</hi> Theſe Men make a ſpecious Shew of their Love to the Ad<g ref="char:EOLhyphen"/>vancement of the Honour and Greatneſs of the Crown, as if they were their Majeſties principal Friends, though in truth they are daily undermining their Majeſties Legal Title to the Crown, by the pernicious Notions of the late Reigns, which are contrary to the Fundamental Maxims of our Government. They commend and applaud the King's Refu<g ref="char:EOLhyphen"/>ſal of the late Bill, and ſome of them have been ſo bold as to ſay, (whether in love to
+<pb n="8" facs="tcp:98943:5"/>K. <hi>William</hi> or K. <hi>James</hi> I will not determine) that what the King did therein, was the chief thing that he hath done like a King. He hath ſhewed, ſay they, that the Being and Sitting of Parliaments, are only Acts of Grace from the Crown; that the People have no other but a precarious Right to them, to have them only at ſuch Times, in ſuch Manner, and for ſo long as the Crown pleaſes. Theſe Gentle<g ref="char:EOLhyphen"/>men pretend to great Moderation, and pri<g ref="char:EOLhyphen"/>vately whiſper to ſuch as they hope to lead, that the Principles of our Government were too ſtrictly and ſeverely laid down in the late Revolution. They ſay, that the original Con<g ref="char:EOLhyphen"/>tract between the King and the People, ſhould not have been ſet forth as an equal Contract, on equal Terms, whereby the Kings were as ſtrictly bound on their Part as the People on theirs, as if each Party had no Right to claim a ſhare in the Legiſlative Power in Parlia<g ref="char:EOLhyphen"/>ment, or any other Adminiſtration of the So<g ref="char:EOLhyphen"/>vereign Authority, ſave only by Force of the Contract. No doubt, ſay they, his Majeſty is now adviſed, that the Original of the Legiſla<g ref="char:EOLhyphen"/>tive and Executive Sovereign Power ought to be wrapp'd in Clouds, and not expoſed to vulgar Eves. 'Tis an Indecency to have it com<g ref="char:EOLhyphen"/>monly ſaid of ſo Great and almoſt Divine Per<g ref="char:EOLhyphen"/>ſons as Kings, that they receive all that Maje<g ref="char:EOLhyphen"/>ſty and Glory only from their People. It's be<g ref="char:EOLhyphen"/>low, ſay they, the high Regal Office, to have it ſaid by all the People, that their Majeſties muſt, within appointed times, call the Parlia<g ref="char:EOLhyphen"/>ments, and let them redreſs the Peoples Grie<g ref="char:EOLhyphen"/>vances, as the Laws direct. They praiſe the Wiſdom of his Majeſty's Counſels, to refuſe the Bill, and to avoid any further Obligations to the People, than were upon his Predeceſ<g ref="char:EOLhyphen"/>ſors. 'Tis fit the Kingdom ſhould as much de<g ref="char:EOLhyphen"/>pend upon his Grace and Clemency for their Parliaments, as upon any others that have ſat in the Throne; and if he had condeſcended to this Bill, the Inſolence of the People, in their Demands of their Liberties, might have been inſupportable.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, you have taken infinite Pains to inſtruct me; yet I was ſuch a Blockhead, that 'till this laſt Diſcourſe of yours, I did not apprehend why the King refuſed the Bill: it was hard for me to believe that there is ſo great a Party, as now I ſuſpect, that proſecute the ſame Deſigns that were in the late Reigns to enſlave us. I thought that ſuch as enjoyed great Preferments, Honours and Profits, by K. <hi>William</hi>'s Election into the Throne, would never have thought to revive the former De<g ref="char:EOLhyphen"/>ſigns of enſlaving us, by ſetting up Pretences of a Power in Engliſh Kings above Parlia<g ref="char:EOLhyphen"/>ments, by Divine Right, antecedent to the Contract between King and People. Though I am convinced there are ſome Men, who have ſo far loſt all Senſe of Honour and Conſcience, that they may be ſtill engaged in the former pernicious enſlaving Deſigns; yet before this your Diſcourſe, I did not think, that any number of Engliſhmen were ſo corrupted or infatuated, as to think, that our whole Con<g ref="char:EOLhyphen"/>ſtitution, our Government by Laws, and all our Eſtates, Liberties and Lives, are holden by the mere Grace and Favour of our Kings. I muſt confeſs, you have mentioned ſeveral of thoſe Gentlemens ſeeming Reaſons againſt paſſing the Bill, that are ſpun too ſine for our Country Heads. We ſhould have thought that nothing of our Rights could have been too plainly ſet down, when we were to de<g ref="char:EOLhyphen"/>clare, as was done in the Revolution, what are, and have been the Rights of us and our Anceſtors, reſerved in the very Conſtitution, from all Ages. But I perceive that what can<g ref="char:EOLhyphen"/>not be denied to be the Peoples legal Rights about Parliaments, is deſired by that ſort of Men to be concealed. They would not have a new Law paſs about holding Parliaments, leſt this King ſhould have more Obligations upon him to hold Parliaments, than ſome of his Predeceſſors. The true meaning whereof can be no more than to ſay, that the King and the People ought not to be put in mind, how many Laws have been made and renewed in all Ages, for the ſame thing; ſince every bo<g ref="char:EOLhyphen"/>dy knows, that the new Law hath no greater obligatory Power than any of the former, which his Majeſty and all his Predeceſſors have ſworn to keep and obſerve.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>You do well to obſerve that the ſecret Enemies of our Legal Government do always avoid the renewing and reinforcing of our antient Laws. They would have them forgot<g ref="char:EOLhyphen"/>ten, or negligently diſuſed, and brought by Degrees to be eſteemed obſolete and unne<g ref="char:EOLhyphen"/>ceſſary. Their evil Practice hath been of old to ſlip over the Calling of Parliaments, ac<g ref="char:EOLhyphen"/>cording to Law, pretending there was no great need of troubling the People; and then the O<g ref="char:EOLhyphen"/>miſſion of one was made a Precedent of doing
+<pb n="9" facs="tcp:98943:5"/>the like again and again, not only in the ſame King's Reign, but in thoſe of their Succeſſors; and thereby the conſtant Courſe of ſucceſſive Parliaments came to be ſo broken and diſuſed, that the People ſcarce dared to demand them, as their Right, but rather moved for them, as Acts of the King's Grace, crying up thoſe for the beſt Kings, that uſed them moſt. But, my good Neighbour, you ought to take notice that the true Engliſh Patriots always thought it neceſſary to reinforce expreſly, and by name, the principal Statutes that concerned the Foundations of our Government: and for that Reaſon uſually made, in the Beginning of Parliaments, Confirmations of the moſt ma<g ref="char:EOLhyphen"/>terial Laws enacted in the former, though not one Word was added or diminiſhed.</p>
+               <p>They have cauſed <hi>Magna Charta</hi> it ſelf to be confirmed near forty times, not that they thought the Confirmations gave more Force to thoſe Laws, but that the Contracts, Pow<g ref="char:EOLhyphen"/>ers, Obligations and Duties of their Princes, and the whole Form of the legal Government might be kept in perpetual Remembrance: And to that purpoſe they alſo ordained, that the ſame great Charter ſhould be publickly read in full County ſeveral times every Year. If we would do like our Anceſtors, there is abundant Cauſe to inſiſt upon this Bill for ſuc<g ref="char:EOLhyphen"/>ceſſive Parliaments, eſpecially upon this Revo<g ref="char:EOLhyphen"/>lution, wherein we have engaged to God and Man, to re-eſtabliſh our antient Conſtituti<g ref="char:EOLhyphen"/>on, with all our Rights and Liberties.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, I am aſhamed to detain you lon<g ref="char:EOLhyphen"/>ger, yet your rational Diſcourſe upon this Sub<g ref="char:EOLhyphen"/>ject does ſo diſquiet my Mind, that I can ſcarce forbear being further troubleſom to you. You have made it apparent that many of thoſe who pretend to ſettle and ſecure the King<g ref="char:EOLhyphen"/>dom, are contriving how to keep it unſettled: they are ſeeking to bring us into that negli<g ref="char:EOLhyphen"/>gent, looſe, uncertain, arbitrary Courſe of Go<g ref="char:EOLhyphen"/>verning, that was in the late Reigns, and had almoſt ruined the Kingdom. For that purpoſe they endeavour to avoid the Change of Things or Perſons in the Adminiſtration, and to leave every thing doubtful about the Peoples Rights, which thoſe Reigns ſeemed to call in queſtion. They have avoided the raiſing and vacating all falſe Judgments and Opinions againſt the Peo<g ref="char:EOLhyphen"/>ples Rights, except the Caſes of very few Per<g ref="char:EOLhyphen"/>ſons, wherein the Parliament hath taken care by ſpecial Acts. They imitate the Proceed<g ref="char:EOLhyphen"/>ings in the late Reigns, as if they would make K. <hi>William</hi>'s Government as grievous as K. <hi>James</hi>'s. I cannot but conclude that 'tis for this Reaſon they ſhew their Fears of making a clear and plain Settlement of the Foundations of our Government, in the Courſe of ſucceſſive Parliaments, to be holden unavoidably; all the Deſigners to enſlave us having always dreaded ſuch a Settlement for ſeveral Ages.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>I wiſh our Country-men were general<g ref="char:EOLhyphen"/>ly as well informed as you are, concerning the Party that are ſecret Enemies to our preſent Government, who are ſtriving either to keep the way open for K. <hi>James</hi>'s Return, or at leaſt to ſet up his way of governing, or ſome<g ref="char:EOLhyphen"/>thing ſo like it, that the one may not be known from the other.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, many of our Country-men know well enough this ſort of falſe-hearted Men, but they for their baſe Compliances, getting up to be our Maſters under K. <hi>Charles</hi> and K. <hi>James,</hi> grievouſly oppreſſed us then, and have now again got ſuch Powers and Preferments, as if they had brought about the late Revolu<g ref="char:EOLhyphen"/>tion, and are ſo able to plague, vex and cruſh us, as they did formerly, that the Country dare not ſpeak their Minds of them or their Proceedings. But pray, Sir, help me to ſhew my Neighbours how this ſort of Men, in their Deſigns of Arbitrary Power, always ſought to prevent an abſolute Settlement of the Legal Courſe of ſucceſſive Parliaments.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>It would require greater Abilities than I have, to ſhew what you deſire, by Reflecti<g ref="char:EOLhyphen"/>ons upon our whole Hiſtory of the Conteſts with the Kings for our Liberties; but I will tell you the Practice in our times, and thoſe juſt before us. This ſort of Men under <hi>James</hi> the Firſt, made him afraid of the ſitting of Parliaments, as an Eclipſe of his Power; and inſinuated to him, that the calling, adjourn<g ref="char:EOLhyphen"/>ing, proroguing and diſſolving of Parliaments, ought to be abſolutely at his Will. They alſo raiſed Diſputes whether Parliaments were, of Right, Maſters of the Methods of their own Proceedings, or were bound firſt to conſider and reſolve upon what the King propounded for Money, or otherwiſe. By thoſe Means they made the ſitting of Parliament uneaſy to him, ſo that he was always glad to be rid of them, before the neceſſary Buſineſs of the Kingdom was done.</p>
+               <p>But that ſort of Men appeared more bold<g ref="char:EOLhyphen"/>ly
+<pb n="10" facs="tcp:98943:6"/>upon the Acceſſion of <hi>Charles</hi> the Firſt to the Crown. They attempted then to invade the great Fundamental of all Liberties and Property, the Power of the People of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> alone to impoſe Money upon themſelves. They had the Confidence to maintain a Power in the Kings to take Tonnage and Poundage, and other Monies without Act of Parliament. They cannot deny that theſe were their trai<g ref="char:EOLhyphen"/>terous Practices and Deſigns, ſo long as the great Petition of Right remains upon Record.</p>
+               <p>Neither ought it to be forgotten how Parli<g ref="char:EOLhyphen"/>aments were then brow-beaten, and their Au<g ref="char:EOLhyphen"/>thorities queſtioned and ſlighted, and the Me<g ref="char:EOLhyphen"/>thod of their Proceedings controuled, contra<g ref="char:EOLhyphen"/>ry to their Fundamental Rights and Privile<g ref="char:EOLhyphen"/>ges, nor how they were toſſed up and down, by ſudden Adjournments, Prorogations and Diſſolutions. The Houſes, Studies, and Pockets of divers of their Members were ſearched, their Perſons, againſt the expreſs Laws, im<g ref="char:EOLhyphen"/>priſoned, and the free Debates in Parliament made ſubject to the reſtraining Power and Cenſure of inferiour Courts and Judges. The King's ſpecial Command and Pleaſure were declared Cauſe ſufficient to detain ſome of them in Priſon 'till Death, without Trial, or being legally accuſed of any Offence. Yet this ſort of Men thought all theſe Practices could not ſecure them, till they brought that King to reſolve to have no more Parliaments, and to forbid the People, by Proclamation, to make mention of Parliaments.</p>
+               <p>We ought to call to mind, that for ten or twelve Years after, all the Counſels of thoſe Deſigners againſt our Legal Government, were imployed to invent Ways to make the Conſti<g ref="char:EOLhyphen"/>tution of Parliaments uſeleſs, and the Crown wholly independent upon the People in Par<g ref="char:EOLhyphen"/>liaments for Supplies and Aids. Such were the Inventions of Loan-Money, Privy-Seal-Money, Knightcod-Money, Coat and Con<g ref="char:EOLhyphen"/>duct-Money, Arbitrary Fines without Juries for Encroachments upon the King's Waſtes, Ship-Money, Billet-Money, oppreſſing Mono<g ref="char:EOLhyphen"/>polies, and illegal Patents upon Trades, almoſt without number. Such alſo was the Commiſſi<g ref="char:EOLhyphen"/>on paſſed the Great Seal, to impoſe, by pre<g ref="char:EOLhyphen"/>tence of Royal Authority, an Exciſe, tho the Illegality and Oppreſſion of it were ſo mani<g ref="char:EOLhyphen"/>feſt, that a ſufficient number of Perſons could not be ſuddenly found to put it in Execution. All Projects were imbraced that had but an appearance of ſupplying the Crown, that they might avoid the neceſſary Settlement of ſuc<g ref="char:EOLhyphen"/>ceſſive Parliaments.</p>
+               <p>The laſt moſt dangerous and deſperate of their Deſigns of that kind was upon ſome pre<g ref="char:EOLhyphen"/>tence from <hi>Ireland</hi> or <hi>Scotland,</hi> to get an Ar<g ref="char:EOLhyphen"/>my, and ſettle Martial Law, that might raiſe ſuch Money as a Council ſhould think fit, and make Proclamations and Orders of State to be as binding to the Subject as Acts of Parliament. Yet even that was imbraced, as appears by the Journals of the Commons in Parliament: Mon<g ref="char:EOLhyphen"/>ſieur <hi>Burlemach</hi> there openly confeſſing, that he had received thirty thouſand Pounds which was ſent over Seas, to hire German Horſe to be the Foundation of the Standing Army here.</p>
+               <p>I could tell you, Neighbour, that during all theſe Tranſactions, which laſted divers Years, their Counſels and Endeavours were to divert the King from admitting the Legal Courſe of Parliaments. The Petitions and Cries of the Subjects to reſtore them, could not be heard, and Agreements were made between the King and ſeveral Perſons of greateſt Abilities and Influence, in order to the arriving at abſolute Power, that there ſhould there ſhould be no more Parlia<g ref="char:EOLhyphen"/>ments during his Life. Nevertheleſs about the Year 1639. the King's Wants of Money being extreamly preſſing, they reſolved to make uſe of a Parliament for Supply, but without a Thought of doing the Kingdom Right, in reſto<g ref="char:EOLhyphen"/>ring the due Succeſſion of Parliaments, and the Exerciſe of their Legal Authorities: and therefore as ſooon as they were met, they procured the King to demand of them their giving up their Legal Fundamental Privilege, of conſidering in the firſt Place, and redreſſing the Peoples Grievances; and the King ſo po<g ref="char:EOLhyphen"/>ſitively inſiſted in denying them their Right and Privilege therein, that within twenty days they were diſſolved, contrary to the known Intentions and Ends of our Conſtitution.</p>
+               <p>The Failure of the Peoples Expectation at that time, and the long Interruption of the le<g ref="char:EOLhyphen"/>gal courſe of Parliaments, raiſed great Diſcon<g ref="char:EOLhyphen"/>tents, and loud and general Cries of the People for Parliaments; the Conſequences whereof were ſuch, as I dread and abhor to remember: yet it was univerſally agreed, That the want of the Legal Courſe of ſucceſſive Parliaments, and the Deſigns of interrupting and preventing their meeting and ſitting, were the great oc<g ref="char:EOLhyphen"/>caſions of all the Confuſion, Blood and Miſ<g ref="char:EOLhyphen"/>chief,
+<pb n="11" facs="tcp:98943:6"/>that afterwards happened. And no doubt but the Parliament then took the only wiſe and neceſſary courſe to prevent all the im<g ref="char:EOLhyphen"/>pending Miſchiefs and Dangers, both to the King and People, when they laboured, with the help of the beſt Lawyers of <hi>England,</hi> to de<g ref="char:EOLhyphen"/>clare and ſecure the Obſervance of the antient Laws for annual ſucceſſive Parliaments; and to provide for their certain meeting, and holding them, notwithſtanding all poſſible De<g ref="char:EOLhyphen"/>ſigns and Contrivances againſt them: Which was done to the great Satisfaction of the Peo<g ref="char:EOLhyphen"/>ple, by that notable Act of the 16th of <hi>Char.</hi> I.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, let me be ſo bold as to ask you, whether that Act for aſcertaining Parlia<g ref="char:EOLhyphen"/>ments, did not occaſion, or ſome way promote the Tumults and Wars that enſued?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>You may eaſily be ſatisfied from what was written in thoſe times, of the Falſhood of ſuch Suggeſtions, and that the King, Lords and Commons paſſed that Act with great Unani<g ref="char:EOLhyphen"/>mity; and that King often glory'd in having paſſed that Act for the Security of his People: but I believe you confound the Act for Trien<g ref="char:EOLhyphen"/>nial Parliaments, with another Act for making the Parliament then in being, in a manner per<g ref="char:EOLhyphen"/>petual; for they were not to be diſſolved or prorogued, but by their own Conſent, declar'd by Act of Parliament. That Act did in truth derogate from the King's Prerogative in diſ<g ref="char:EOLhyphen"/>ſolving Parliaments, and whatſoever Miſchiefs might, or did thereupon enſue, ought to be imputed to the Alteration made thereby, of our Conſtitution, or Monarchy, not to the juſt and ſtrict Obſervance of our Laws and Sta<g ref="char:EOLhyphen"/>tutes, for which the Act for Triennial Par<g ref="char:EOLhyphen"/>liaments made Proviſion.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, I know there is a common Miſ<g ref="char:EOLhyphen"/>take about thoſe Acts of Parliament, and that occaſion is taken by ſome from the Confuſions in Government that ſoon after happened, to impoſe upon the People falſe Notions about the Authority of Parliaments, and to frighten them from demanding, and inſiſting upon their conſtant ſucceſſive Elections, as the Laws appoint. 'Tis notorious, that thoſe who de<g ref="char:EOLhyphen"/>ſign Arbitrary Power are always buſy in ſuch Matters, and in unworthy Reflections upon Parliaments. But pray, Sir, let us paſs by that dark time of the Civil War, and ſee what the ſame ſort of Men have done about Parlia<g ref="char:EOLhyphen"/>ments, after the Return of K. <hi>Charles</hi> II.</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>They purſued the ſame Deſigns of ſub<g ref="char:EOLhyphen"/>verting our Conſtitution as to Parliaments, but took Meaſures quite different from thoſe be<g ref="char:EOLhyphen"/>fore uſed to effect it. They remembred the ill Succeſs of all Projects and Monopolies, and Pretences of Prerogative to ſupply the Go<g ref="char:EOLhyphen"/>vernment with Money. They had found and felt by Experience, that a free Parliament could not be awed, and that the People in the Intervals of Parliament would not be forced to pay Taxes, that were not legally impo<g ref="char:EOLhyphen"/>ſed upon them: yet there was an abſolute ne<g ref="char:EOLhyphen"/>ceſſity for the Crown to be ſupplied with Aids from the People, without which it could not ſubſiſt, great part of the Crown-Lands being waſted and ſquandered awny in the two pre<g ref="char:EOLhyphen"/>ceding Reigns. 'Twas therefore reſolved to attempt that by Fraud, which they could not compaſs by Force; and in order thereunto they took the Advantage of the preſent Tem<g ref="char:EOLhyphen"/>per of the People, which carried them, with<g ref="char:EOLhyphen"/>out conſidering what the Conſequences might be, to every thing that was agreeable to the Court. They recommended ſuch to be choſen Members of the Houſe of Commons, whoſe Fortunes had been moſt impaired in the late Wars, and whoſe Dependance upon the Court might incline them to a Compliance with whatever ſhould be demanded of them; and theſe good-natur'd Loyal Gentlemen repealed the Act of the 16th of K. <hi>Charles</hi> I. for Trien<g ref="char:EOLhyphen"/>nial Parliaments, whilſt a few worthy Patriots laboured in vain to defend it. 'Tis true, they pretended in the Act, by which this Statute was repealed, to aſcertain the frequent hold<g ref="char:EOLhyphen"/>ing of Parliaments; yet it left the King at li<g ref="char:EOLhyphen"/>berty to continue the ſame Parliament as long as he pleaſed, and that King did accordingly continue that ſame Parliament near eighteen Years: which time they could not be ſaid truly to repreſent the People of <hi>England,</hi> ma<g ref="char:EOLhyphen"/>ny of thoſe who choſe them being dead, and others were either grown up, or had purcha<g ref="char:EOLhyphen"/>ſed Eſtates, whoſe Opinions both of Perſons and things might be much changed from what the Senſe of the Nation was when that Par<g ref="char:EOLhyphen"/>liament was firſt called. But having got a conſiderable Party in the Houſe of Commons, they laboured to confirm and increaſe it. Places and Penſions were liberally beſtowed on all that could be brought over to them: and 'tis no wonder they gave ſuch prodigious Sums of Money out of the poor Peoples Pur<g ref="char:EOLhyphen"/>ſes, when a great part was again to be refun<g ref="char:EOLhyphen"/>ded
+<pb n="12" facs="tcp:98943:7" rendition="simple:additions"/>into their own. This ſcandalous Pro<g ref="char:EOLhyphen"/>ceeding was manifeſt, and confirmed by the open Confeſſion of a Gentleman (through whoſe Hands much publick Money then paſſed) in the Houſe of Commons the next ſucceeding Parliament, who there acknow<g ref="char:EOLhyphen"/>ledged his paying annually many and great Penſions to Members of Parliament.</p>
+               <p>Beſides thus corrupting thoſe already in the Houſe, there was neither Pains nor Money ſpared to get their Friends choſen where any Vacancy happened, inſomuch that the Court ſpent 14000 <hi>l.</hi> at one Election of a Burgeſs for <hi>Northampton.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, you have fully ſatisfied me that the Miniſters in that Reign were as bitter Ene<g ref="char:EOLhyphen"/>mies to the Engliſh Conſtitution about Parlia<g ref="char:EOLhyphen"/>ments, as thoſe in the two former that went before it; but their Meaſures are more dan<g ref="char:EOLhyphen"/>gerous and likely to ſucceed; and it was God's great Mercy that theſe Hirelings did not enſlave us, as it were by our own Conſent, and by colour of the Authority we had given them for our Preſervation.</p>
+               <p>But pray, Sir, what was the meaning of the great Buſtle all over <hi>England</hi> about Charters? What made the Court ſo mightily labour to perſwade all Corporations to ſurrender their old Charters, and take new ones from the King? Was not that done with a deſign to influence the Elections of Members to Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>Yes moſt certainly, and this was a more pernicious and dangerous Deſign than any put in Practice in the former Reigns. This ſtruck at the very Root of all the Liberties of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that the People ſhould never again have a free Parliament choſen according to the Con<g ref="char:EOLhyphen"/>ſtitution; but ſuch Men impoſed upon them, as would ſervilely comply with the Court in all their Meaſures to enſlave us. They corrupted ſome in every Corporation to perſwade the reſt to ſurrender their Charters; and where they could not prevail by Entreaties, theſe wicked Inſtruments in ſeveral Towns, broke open the Trunks wherein their Charters were kept, and ſtole them away to deliver them up. Where this could not be done, they brought <hi>Quo Warranto</hi>'s againſt the Charters of almoſt every Town in <hi>England,</hi> that hath a Right to lend Members to Parliament; and by means of corrupt Judges, declared them void, upon ſome Pretence or other, that the preſent Ma<g ref="char:EOLhyphen"/>giſtrates had acted be yond, or contrary to the Powers granted in them, and thereby forfeited all their Rights and Privileges. New Magi<g ref="char:EOLhyphen"/>ſtrates were placed thereupon in thoſe Towns, ſuch as they could moſt confide in, and ſuch Clauſes were inſerted into their new Charters, as put the Choice of their Repreſentatives in Parliament abſolutely for the future into the Power of the Court.</p>
+            </sp>
+            <sp>
+               <speaker>Yeom.</speaker>
+               <p>Sir, I am infinitely obliged to you for your Pains and Kindneſs, in ſhewing theſe things to me; but I ſtand amazed to think, that there could be ſo many Engliſh-men found in every Reign, to join in carrying on this continued Deſign to ſubvert our Conſti<g ref="char:EOLhyphen"/>tution, and enſlave us. What preſent Advan<g ref="char:EOLhyphen"/>tage could delude and tempt them? they themſelves, and their own Poſterity muſt be involved in the ſame Miſery and Ruin they endeavoured to bring upon others.</p>
+               <p>Sir, I have treſpaſſed too long upon your Patience, and ſhall not therefore trouble you further about their Deſigns under the late King <hi>James</hi> (thoſe being moſt excellently laid down and made manifeſt in his Majeſty's Declarati<g ref="char:EOLhyphen"/>ons, when Prince of <hi>Orange,</hi> publiſhed upon his coming into <hi>England</hi>) but upon the whole 'tis moſt plain, <hi>That neither we nor our Poſterity can be ſafe in our Religion, Laws and Li<g ref="char:EOLhyphen"/>berties, till we obtain and abſolute Settlement of the Legal Courſe of ſucceſſive Parliament.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Kt.</speaker>
+               <p>I will only tell you one thing more, Neighbour, before we part, that theſe Kings, who endeavoured to ſubvert the Conſtitution as to Parliaments, were always embroiled with their People about Rights and Privileges; and that when once the People had diſcovered theſe Deſigns in them, tho they called many Parliaments, yet the ſame Jealouſies continued, and they never after came to a good Under<g ref="char:EOLhyphen"/>ſtanding, or had a mutual Confidence in one another.</p>
+               <p>Our Hiſtories declare the Truth of this Ob<g ref="char:EOLhyphen"/>ſervation in many former Princes Reigns, ſo that I hope the King will avoid a Rock that hath been fatal to all who have ſtruck upon it; and I am confident that his Majeſty will do all that a good King and honeſt Man can do, to re<g ref="char:EOLhyphen"/>ſtore to us our Conſtitution, having in his De<g ref="char:EOLhyphen"/>claration call'd God and Man to witneſs, <hi>That was the Deſign of his coming hither.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98943:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
